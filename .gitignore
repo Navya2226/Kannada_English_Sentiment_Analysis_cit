@@ -4,7 +4,6 @@ __pycache__/
 *.zip
 models/
 results_xlm/
-data/
 *.pt
 *.bin
 *.safetensors
