@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.DS_Store
+*.zip
+models/
+results/
+results_xlm/
+data/
+*.pt
+*.bin
+*.safetensors
